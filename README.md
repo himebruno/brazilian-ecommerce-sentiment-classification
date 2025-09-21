@@ -1,7 +1,7 @@
 # E-commerce Customer Review Sentiment Prediction
 
 ## Project Description
-This project aims to build a classification model to predict whether a product will receive a positive or negative review on an e-commerce platform. The model leverages various transactional and product-related features, along with textual review content, to understand the drivers of customer satisfaction. The primary goal is to provide actionable insights for improving customer experience and product offerings.
+This project aims to build a classification model to predict whether a product received a positive or negative review on an e-commerce platform. The model leverages various transactional and product-related features, along with textual review content, to understand the drivers of customer satisfaction. The primary goal is to provide actionable insights for improving customer experience and product offerings.
 
 ## Dataset
 The project utilizes the **Brazilian E-commerce Public Dataset by Olist**, available on Kaggle. This dataset contains information on 100k orders made at Olist Store, including customer, order, product, seller, and review data.
